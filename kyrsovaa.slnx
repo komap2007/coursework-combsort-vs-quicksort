@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="kyrsovaa.vcxproj" Id="c3c2dd16-14b5-4570-980a-f78e4b9a79b1" />
+</Solution>
